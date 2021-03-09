@@ -422,7 +422,7 @@ body {
       background: url(imagenes/minus-circle-36.png) no-repeat;
     }
 .container-fluid {
-  background-attachment: fixed;
+  background-attachment: scroll;
 }
   .panel {
     font-size: 1.6rem;
