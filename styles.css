@@ -410,10 +410,7 @@ body {
     height: 35px;
     background: url(imagenes/plus-circle-36.png) no-repeat;
   }
-  .active .icon {
-    margin: 8px 10px 0 10px;
-    width: 40px;
-    height: 35px;
+  .active .accor .icon {
     background: url(imagenes/minus-circle-36.png) no-repeat;
   }
   .accor h5 {
